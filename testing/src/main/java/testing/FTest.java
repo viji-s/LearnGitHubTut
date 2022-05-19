@@ -1,6 +1,6 @@
 package testing;
 
-public class FTest {
-	fvnkcv
+public interface FTest {
+	
 
 }
