@@ -1,6 +1,6 @@
 package testing;
 
-public interface FTest {
+public interface FTest implements Config{
 	
 
 }
